@@ -1,7 +1,9 @@
 #################
 ## Eclipse
 #################
-
+*.hi
+*.o
+*.exe
 *.pydevproject
 .project
 .metadata
